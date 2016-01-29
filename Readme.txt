@@ -1,4 +1,4 @@
-hello git!
-xxx
+hello git!;
+xxx;
 
-master is here!)
+master is here!);
