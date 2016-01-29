@@ -1,6 +1,6 @@
-hello git!
-xxx
+hello git!;
+xxx;
 
-master is here!)
+master is here!);
 print(br2);
 print(readme first);
