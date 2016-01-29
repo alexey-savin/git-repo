@@ -7,6 +7,8 @@ namespace Git.HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello everybody");
+
+            Console.ReadKey();
         }
     }
 }
